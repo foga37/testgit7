@@ -1,0 +1,212 @@
+
+.as {
+    background-color: violet;
+    width: 100%;
+    text-align: center;
+}
+.box1 {
+    width: 100%;
+    height: 200px;
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+}
+.b {
+    width: 70%;
+    height: 120px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+.b1 {
+    background-color: black;
+    width: 60%;
+    height: 60px;
+    align-self: center;
+    
+}
+.b2 {
+    width: 100%;
+    height: 25px;
+    background-color: gray;
+    text-align: center;
+}
+.box2 {
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.r { 
+    height: 150px;
+    width: 100%;
+    display: flex;
+}
+
+.bb {
+    background-color: red;
+}
+.bb2 {
+    background-color: orange;
+}
+.bb3 {
+    background-color: aqua;
+}
+.bb4 {
+    background-color: yellow;
+}
+
+.b3 {
+    width: 100%;
+    height: 25px;
+    background-color: gray;
+}
+
+.box3 {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.f {
+    height: 400px;
+    width: 100%;
+}
+.az {
+    background-color: green;
+    width: 100%;
+    text-align: center;
+}
+.f1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+   
+}
+.ax {
+    width: 100%;
+    background-color: aqua;
+    text-align: center; 
+}
+
+.f2 {
+    display: flex;
+    justify-content: center;
+    align-items: end; 
+}
+
+.ah {
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+}
+.f3 {
+    background-color: blue;
+    display: flex;
+    text-align: center;
+    
+}
+.hg {
+    width: 60%;
+    background-color: orange;
+    text-align: center;
+    
+}
+.ff1 {
+    background-color: orange;
+    height: 330px;
+    width: 100%;
+    display: flex;
+    align-items: end;
+}
+
+.ff2 {
+    background-color: pink;
+    height: 250px;
+    width: 50%;
+} 
+
+.ff3 {
+    background-color: yellow;
+    height: 250px;
+    width: 50%;
+}
+.fff1 {
+    background-color: red;
+    height: 350px;
+    width: 35%;
+}
+
+.hid {
+    background-color: yellow;
+    width: 35%;
+    text-align: center;
+}
+.obv {
+    background-color: yellow;
+    width: 100%;
+    height: 332px;
+    display: flex;
+    align-items: flex-end;
+}
+.fff3 {
+    background-color: orange;
+    height: 350px;
+    width: 35%;
+}
+.fd {
+    background-color: orange;
+    height: 270px;
+    width: 50%;
+    
+}
+.fd1 {
+    background-color: red;
+    height: 70px;
+    width: 50%;
+}
+.fa1 {
+    background-color: aqua;
+    height: 70px;
+    width: 35%;
+    align-self: flex-end;
+    
+}
+.fa2 {
+    background-color: yellow;
+    height: 120px;
+    width: 35%;
+    align-self: flex-end;
+    margin-bottom: 50px;
+}
+.fa3 {
+    background-color: orange;
+    height: 120px;
+    width: 35%;
+    align-self: center;
+}
+.fa4 {
+    background-color: black;
+    height: 25px;
+    width: 70%;
+    position: relative;
+    top: 25px; left: 65px;
+    color: aliceblue;
+    font-style: italic;
+}
+.fa5 {
+    background-color: black;
+    height: 25px;
+    width: 70%;
+    margin-top: 50px;
+    color: aliceblue;
+    font-style: italic;
+}
+
+.man {
+    border: solid 4px red;
+    border-bottom: 0cap;
+    display: block;
+}
